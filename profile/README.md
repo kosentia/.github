@@ -60,7 +60,7 @@ Not sure where to start? Open an issue or discussion — we're happy to help.
 Found a security issue?  
 Please report it responsibly:
 
-📧 **security@strategix-ai.com**
+📧 **hello@kosentia.com**
 
 We take security seriously and appreciate responsible disclosure.
 
@@ -68,11 +68,11 @@ We take security seriously and appreciate responsible disclosure.
 
 ## 📬 Get in Touch
 
-- 🌍 Website: **https://<your-website>**
-- 📧 Email: **hello@<your-domain>**
-- 🐦 X / Twitter: **https://twitter.com/<handle>**
-- 💬 Discord / Slack: **<community link>**
-- 🧑‍💼 Careers: **https://<your-website>/careers**
+- 🌍 Website: **https://www.kosentia.com**
+- 📧 Email: **hello@kosentia.com**
+- 🐦 X / Twitter: **https://x.com/HelloKosentia**
+- 💬 linkedin: **https://www.linkedin.com/company/kosentia**
+
 
 We’re always open to feedback, partnerships, and great conversations.
 
@@ -88,7 +88,7 @@ Our projects are **dual-licensed**:
 
 - **Commercial Use**  
   Commercial, production, or revenue-generating use requires a **paid commercial license**.  
-  📧 Contact: **licensing@<your-domain>**
+  📧 Contact: **hello@kosentia.com**
 
 If you’re unsure whether your use case is commercial, please reach out — we’re happy to clarify.
 
@@ -98,5 +98,3 @@ If you’re unsure whether your use case is commercial, please reach out — we�
 Made by technical leaders who've built AI systems at scale and believe startups deserve production-grade technical guidance without hiring a full-time CTO.
 
 **We're not a dev shop. We're not consultants. We're technical partners who help you ship AI products with confidence.**
-github/basic-writing-and-formatting-syntax)
--->
